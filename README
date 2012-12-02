@@ -1,0 +1,20 @@
+ssh_key_groups
+
+This is the ssh_key_groups module.
+Goal of this module is to manage ssh access for your users.
+See manifests/init.pp for details.
+
+License
+-------
+GPLv3 
+See LICENSE for details.
+
+Contact
+-------
+
+Vasil Mikhalenya <bazilek@gmail.com>
+
+Support
+-------
+
+Please log tickets and issues at https://github.com/bazilek/puppet-ssh_key_groups/issues

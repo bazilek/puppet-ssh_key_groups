@@ -1,0 +1,7 @@
+name    'bazil-ssh_key_groups'
+version '1.0.0'
+author 'Vasil Mikhalenya <bazilek@gmail.com>'
+license 'GPLv3'
+summary 'Manage ssh access for your users'
+description 'Manage ssh keys via puppet with ability of grouping keys i.e usage named set of keys'
+project_page 'https://github.com/bazilek/puppet-ssh_key_groups/'
