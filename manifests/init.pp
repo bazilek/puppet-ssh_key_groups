@@ -5,7 +5,7 @@
 # Module generates content of user .ssh/authorized_keys file based on passed
 # key name or group name. See example.
 # Put users ssh public keys in files/ssh_keys.
-# Define groups of keys in manifests/config.pp
+# Define groups of keys in manifests/groups.pp
 # Groups may include other groups as well as users. Please avoid recursion.
 # Pass array of keynames to create_user define - appropriate keys will be
 # placed as .ssh/authorized_keys in the home directory of created user.
